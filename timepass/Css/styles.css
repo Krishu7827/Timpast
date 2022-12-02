@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    
+    background-color: #e4f5f9;
+    
+
+}
+h1{
+    color: #66bfbf;
+    font-size: 562.5%;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align:center;
+}
+h3{
+    color: grey;
+    margin-bottom: 50px;
+}
+.head{
+    padding: 10px;
+}
+
+.photo{
+        width:40%;
+        border-radius: 70px;
+    }
